@@ -1,0 +1,43 @@
+.wrapper{
+    width: 60%;
+    margin:0 auto;
+    border:5px solid rgba(218, 218, 218, 0.466);
+}
+
+label{
+    font-size: 25px;
+}
+.email, .password{
+    width: 80%;
+    height: 25px;
+    padding: 10px;
+    font-size: 18px;
+}
+
+.message{
+    font-size: 18px;
+}
+table{
+    width: 100%;
+}
+th{
+    text-align: center;
+}
+
+.age{
+    text-align: right;
+}
+th,td{
+    font-size: 20px;
+    text-align:center;
+}
+
+h1{
+    text-align: center;
+}
+.first_Name{
+    width: 82%;
+}
+.last_Name{
+    width: 82%;
+}
